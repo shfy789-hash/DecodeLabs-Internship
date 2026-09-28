@@ -10,6 +10,8 @@ Welcome to my repository for the DecodeLabs internship assignments. This reposit
   * A Python utility designed to analyze password complexity, verifying criteria such as length, character variation, and overall strength metrics.
 * **Phishing Awareness Analysis**
   * A comprehensive security analysis covering phishing taxonomies, social engineering vectors, indicators of compromise (IoCs), and red flags.
+* **Vulnerability Assessment**
+  * A system vulnerability checklist and hardening report detailing local machine auditing, risk scoring via CVSS, and firewall/encryption verifications.
 
 ## Repository Structure
 
@@ -20,5 +22,7 @@ DecodeLabs-Internship/
 ├── Password Strength Checker/
 │   ├── password_checker.py
 │   └── ##paswrord checker.py
-└── Phishing Awareness Analysis/
-    └── README.md
+├── Phishing Awareness Analysis/
+│   └── README.md
+└── Vulnerability Assessment/
+    └── Readme.md
